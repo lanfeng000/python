@@ -1,3 +1,6 @@
 [submodule "Python"]
 	path = Python
 	url = git@github.com:joeyajames/Python.git
+[submodule "second_fd/c"]
+	path = second_fd/c
+	url = git@github.com:malaise/c.git
